@@ -1,0 +1,6 @@
+.checked{
+    width: 5px;
+    height: 5px;
+    border-radius: 100%;
+    background-color: green;
+}
